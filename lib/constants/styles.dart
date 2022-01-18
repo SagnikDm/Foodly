@@ -1,6 +1,8 @@
-import 'package:app/config/size_config.dart';
-import 'package:app/constants/colors.dart';
+
 import 'package:flutter/material.dart';
+import 'package:foodly/config/size_config.dart';
+
+import 'colors.dart';
 
 
 
